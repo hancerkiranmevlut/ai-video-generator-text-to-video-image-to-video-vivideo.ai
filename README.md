@@ -1,2 +1,3 @@
 # ai-video-generator-text-to-video-image-to-video-vivideo.ai
 Vivideo.ai is an AI video generator that turns text and images into high-quality videos in minutes. Create marketing clips, social media videos, ads, and presentations with smart automation, realistic visuals, and fast rendering. No editing skills required. Ideal for creators, businesses, and agencies looking to scale video production efficiently.
+Try it now: https://vivideo.ai
